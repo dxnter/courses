@@ -5,5 +5,5 @@ Homepage
 ![index](https://i.imgur.com/qP4Ufud.png)
 Remove Confirmation
 ------
-![remove](https://i.imgur.com/W7nmbUp.png)
+![remove](https://i.imgur.com/HtHHeHi.png)
 
