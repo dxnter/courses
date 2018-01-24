@@ -1,0 +1,11 @@
+.container{
+    margin-bottom: 50px !important;
+}
+h3, h4 {
+    margin-top: 50px !important;
+    margin-bottom: 20px !important;
+}
+input[type="submit"] {
+    margin: -42px 15px !important;
+    padding: 6px 30px !important;
+}
